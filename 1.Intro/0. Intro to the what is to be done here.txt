@@ -1,0 +1,26 @@
+To help motivate myself and you guys to complete this lecture series, I think it is important to understand why humans do things.
+
+Most of us, use the skills we learn to get a job and achieve somewhat relevance in society. 
+But after these needs are met, we might feel like there is no purpose left to do things anymore. 
+The classic ask yourself "if you had a million dollars,what would you do?" works in all cases and scenarios.  
+You might feel like "I'm gonna have a different career anyway" if you have a talent in other fields of life like sports or music. 
+But the truth is technology is not limited to just computer science and related fields. 
+Technology in the 20th century meant groundbreaking inventions in every aspect of your life. 
+Though this might not seem true anymore due to lack of progress in other fields other than computers, it is. 
+
+
+This could be just a course in Algorithms or it might be a way for us to learn how to learn things (How to think effectively!).
+This ability to think, will help you in finding meaningful ways of going through life and most importantly, create value for the people around you in any field of your
+choice. 
+Keep on grinding (the point where you will fail is the point where incremental progress is being made) through this and be honest with yourself as whether you 
+understood every concept implemented in this course.
+
+
+The following is my understanding as to what is to be taken into account while going through the course.
+(1) Trying to understand why we need these algorithms.
+(2) Why are some algorithms better than others in certain situations.
+(3) Understand the structures and designing knowledge that went into creating these algorithms.
+(3) Try to understand where we can apply them in daily life (This one is really something to think about)
+(4) Most importantly, derive joy while doing so.
+
+The whole world is rooting for us to do this guys, lets get it done.  
